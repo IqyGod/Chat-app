@@ -1,5 +1,7 @@
 # Chat-app
 It's the time to take a deep dive into Node.js and Express.js by building a chat application with a sign-in system.
+<br>Poilerplate comes from FreeCoeCamp, the Advanced Node and Express section. 
+<br>Instructions for the lessons start at https://www.freecodecamp.org/learn/quality-assurance/advanced-node-and-express/
 
 
 ## There includes 3 projects
