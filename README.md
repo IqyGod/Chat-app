@@ -2,7 +2,7 @@
 It's the time to take a deep dive into Node.js and Express.js by building a chat application with a sign-in system.
 <br>In order to implement the sign-in system safely, we will use authentication, which is the act of verifying the identity of a person or process.
 
-<br>Poilerplate comes from FreeCoeCamp, the Advanced Node and Express section. 
+<br>Boilerplate comes from FreeCoeCamp, the Advanced Node and Express section. 
 <br>Instructions for the lessons start at https://www.freecodecamp.org/learn/quality-assurance/advanced-node-and-express/
 
 
