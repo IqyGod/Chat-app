@@ -23,6 +23,10 @@ It's the time to take a deep dive into Node.js and Express.js by building a chat
 - Pug
 - MongoDB
 - Socket.io
+- npm (lots of packages used here) 
+
+List down all packages installed : 
+<br >pug, passport, express-session, mongodb, passport-local, bcrypt, socket.io, passport.socketio, connect-mongo and cookie-parser
 
 
 ## User Story
