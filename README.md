@@ -8,14 +8,13 @@ It's the time to take a deep dive into Node.js and Express.js by building a chat
 
 ## There includes 3 projects
 - Registerd User Login
-![image](https://user-images.githubusercontent.com/99662300/172035670-8f7d8a59-0403-4d2b-8e9a-6116497ac229.png)
+<img src="https://user-images.githubusercontent.com/99662300/172035670-8f7d8a59-0403-4d2b-8e9a-6116497ac229.png" width=50% height=50%>
 
 - Registration of New Users
-![image](https://user-images.githubusercontent.com/99662300/172035678-a447c432-3134-4c49-8350-6308e6f20818.png)
+<img src="https://user-images.githubusercontent.com/99662300/172035678-a447c432-3134-4c49-8350-6308e6f20818.png" width=50% height=50%>
 
 - Social Authentication to Chat Room
-![image](https://user-images.githubusercontent.com/99662300/172035682-72b504d6-f301-4931-9eda-f111a11f63ce.png)
-
+<img src="https://user-images.githubusercontent.com/99662300/172035682-72b504d6-f301-4931-9eda-f111a11f63ce.png" width=50% height=50%>
 
 ## Built with
 - Node.js
@@ -25,7 +24,7 @@ It's the time to take a deep dive into Node.js and Express.js by building a chat
 - Socket.io
 - npm (lots of packages used here) 
 
-List down all packages installed : 
+__List down all packages installed__ : 
 <br >pug, passport, express-session, mongodb, passport-local, bcrypt, socket.io, passport.socketio, connect-mongo and cookie-parser
 
 
